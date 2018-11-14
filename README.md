@@ -1,6 +1,13 @@
 counters-benchmark
 ==================
 
+# 前言
+
+
+<font color=red size=30>你想要是的稳定，而不是某个时间很强。</font>
+
+
+
 # 一、原文
 https://blog.takipi.com/java-8-stampedlocks-vs-readwritelocks-and-synchronized/
 
